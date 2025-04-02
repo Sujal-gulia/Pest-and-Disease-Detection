@@ -3,3 +3,6 @@ transformers
 torch
 torchaudio
 torchvision
+tf-keras
+tensorflow
+keras
